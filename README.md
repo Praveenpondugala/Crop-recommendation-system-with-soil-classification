@@ -1,8 +1,8 @@
-# MarghaDharshi: A Hybrid ML Model for Crop Planning
+# Crop Recommendation System with Soil Classification
 
 ## 🌱 Overview
 
-MarghaDharshi is an AI-powered decision-support system designed to help farmers optimize agricultural practices by integrating **CNN-based soil classification** and **traditional crop rotation datasets**. This hybrid model provides accurate soil type classification and recommends the best crops based on past cropping patterns, current season, and soil characteristics.
+This is an AI-powered decision-support system designed to help farmers optimize agricultural practices by integrating **CNN-based soil classification** and **traditional crop rotation datasets**. This hybrid model provides accurate soil type classification and recommends the best crops based on past cropping patterns, current season, and soil characteristics.
 
 ## 🚀 Features
 
@@ -16,23 +16,6 @@ MarghaDharshi is an AI-powered decision-support system designed to help farmers 
 - **Machine Learning**: TensorFlow (CNN for soil classification), Scikit-learn (Crop recommendation)
 - **Python Libraries**: Pandas, NumPy, Joblib, Matplotlib, Seaborn
 - **Web Framework**: Streamlit
-
-
-## 🔧 Installation & Setup
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-repo/MarghaDharshi.git
-   cd MarghaDharshi
-   ```
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the Application:**
-   ```sh
-   streamlit run app.py
-   ```
 
 ## 🖼️ Usage
 
